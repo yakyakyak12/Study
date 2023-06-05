@@ -1,6 +1,6 @@
 package ex05.ch02;
 
-public class DarkTemplar {
+public class DarkTemplar extends ProtossUnit{
   String name;
   int hp;
   int attack;
