@@ -1,0 +1,224 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Gasoline",
+      "request": "launch",
+      "mainClass": "myjava.Gasoline",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Box",
+      "request": "launch",
+      "mainClass": "myjava.Box",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "BoxTeat",
+      "request": "launch",
+      "mainClass": "myjava.BoxTeat",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Meth04",
+      "request": "launch",
+      "mainClass": "ex04.Meth04",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Meth02",
+      "request": "launch",
+      "mainClass": "ex04.Meth02",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Meth01",
+      "request": "launch",
+      "mainClass": "ex04.Meth01",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "myjava.test",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "MySyar02",
+      "request": "launch",
+      "mainClass": "ex03.MySyar02",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "MySyar01",
+      "request": "launch",
+      "mainClass": "ex03.MySyar01",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Coin2",
+      "request": "launch",
+      "mainClass": "ex03.Coin2",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Coin",
+      "request": "launch",
+      "mainClass": "ex03.Coin",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Arraytest1",
+      "request": "launch",
+      "mainClass": "myjava.Arraytest1",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Me",
+      "request": "launch",
+      "mainClass": "ex03.Me",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "NestedLoop",
+      "request": "launch",
+      "mainClass": "ex03.NestedLoop",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Gugudan",
+      "request": "launch",
+      "mainClass": "ex03.Gugudan",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Var01",
+      "request": "launch",
+      "mainClass": "ex01.Var01",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Var02",
+      "request": "launch",
+      "mainClass": "ex01.Var02",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Var03",
+      "request": "launch",
+      "mainClass": "ex01.Var03",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Add2",
+      "request": "launch",
+      "mainClass": "ex02.Add2",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "CalTime",
+      "request": "launch",
+      "mainClass": "ex02.CalTime",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "CompOperator",
+      "request": "launch",
+      "mainClass": "ex02.CompOperator",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "FtoC",
+      "request": "launch",
+      "mainClass": "ex02.FtoC",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "IncOperator",
+      "request": "launch",
+      "mainClass": "ex02.IncOperator",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "InputString",
+      "request": "launch",
+      "mainClass": "ex02.InputString",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Mem01",
+      "request": "launch",
+      "mainClass": "ex02.Mem01",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Pizza",
+      "request": "launch",
+      "mainClass": "ex02.Pizza",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Con01",
+      "request": "launch",
+      "mainClass": "ex03.Con01",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "Gradung",
+      "request": "launch",
+      "mainClass": "ex03.Gradung",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "RockPaperScissor",
+      "request": "launch",
+      "mainClass": "ex03.RockPaperScissor",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
+      "name": "oh",
+      "request": "launch",
+      "mainClass": "ex03.oh",
+      "projectName": "study_7227911"
+    }
+  ]
+}
