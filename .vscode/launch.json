@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "APP",
+      "request": "launch",
+      "mainClass": "ex05.ch02.APP",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
       "name": "Gasoline",
       "request": "launch",
       "mainClass": "myjava.Gasoline",

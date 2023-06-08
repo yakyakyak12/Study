@@ -9,6 +9,7 @@ public class Zealot extends ProtossUnit{
     this.name = name;
     this.hp = hp;
     this.attack = attack;
+  
   }
 
 }
