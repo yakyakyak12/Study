@@ -1,8 +1,7 @@
 package ex05.exam;
 
 class 육식동물 {
-  void print(){};
-
+  void print(){}
 }
 
 class Tiger extends 육식동물{
@@ -17,7 +16,7 @@ class Tiger extends 육식동물{
   }
 }
 
-class Lion  extends 육식동물 {
+class Lion extends 육식동물{
   private String name;
 
   public Lion(String name) {
@@ -30,12 +29,11 @@ class Lion  extends 육식동물 {
 }
 
 public class ExtenExam {
-
   static void start(육식동물 a) {
     a.print();
 
   }
-  
+
 
   public static void main(String[] args) {
     Lion lion = new Lion("사자1");

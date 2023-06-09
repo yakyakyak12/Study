@@ -1,11 +1,15 @@
 package ex05.ch04;
 
 public abstract class ProtossUnit {
-    public abstract int getHp();
+   String name;
+    int hp;
+    int attack;
 
-    public abstract void setHp(int hp);
-
-    public abstract int getAttack();
-
-    public abstract String getName();
+    public ProtossUnit(String name, int hp, int attack) {
+      this.name = name;
+      this.hp = hp;
+      this.attack = attack;
+    }
+   
 }
+

@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExtenExam",
+      "request": "launch",
+      "mainClass": "ex05.exam.ExtenExam",
+      "projectName": "study_7227911"
+    },
+    {
+      "type": "java",
       "name": "APP",
       "request": "launch",
       "mainClass": "ex05.ch02.APP",
